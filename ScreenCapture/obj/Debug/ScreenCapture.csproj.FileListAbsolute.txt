@@ -1,0 +1,10 @@
+C:\Users\Aspfar01\Desktop\ScreenCaptureProgram\ScreenCapture\ScreenCapture\bin\Debug\ScreenCapture.exe.config
+C:\Users\Aspfar01\Desktop\ScreenCaptureProgram\ScreenCapture\ScreenCapture\bin\Debug\ScreenCapture.exe
+C:\Users\Aspfar01\Desktop\ScreenCaptureProgram\ScreenCapture\ScreenCapture\bin\Debug\ScreenCapture.pdb
+C:\Users\Aspfar01\Desktop\ScreenCaptureProgram\ScreenCapture\ScreenCapture\obj\Debug\ScreenCapture.csprojResolveAssemblyReference.cache
+C:\Users\Aspfar01\Desktop\ScreenCaptureProgram\ScreenCapture\ScreenCapture\obj\Debug\ScreenCapture.Form1.resources
+C:\Users\Aspfar01\Desktop\ScreenCaptureProgram\ScreenCapture\ScreenCapture\obj\Debug\ScreenCapture.Properties.Resources.resources
+C:\Users\Aspfar01\Desktop\ScreenCaptureProgram\ScreenCapture\ScreenCapture\obj\Debug\ScreenCapture.csproj.GenerateResource.cache
+C:\Users\Aspfar01\Desktop\ScreenCaptureProgram\ScreenCapture\ScreenCapture\obj\Debug\ScreenCapture.csproj.CoreCompileInputs.cache
+C:\Users\Aspfar01\Desktop\ScreenCaptureProgram\ScreenCapture\ScreenCapture\obj\Debug\ScreenCapture.exe
+C:\Users\Aspfar01\Desktop\ScreenCaptureProgram\ScreenCapture\ScreenCapture\obj\Debug\ScreenCapture.pdb
