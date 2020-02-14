@@ -25,22 +25,24 @@ namespace ScreenCapture
             t.Start();
         }
 
-
-        void Capture()
+		private new void Capture()
         {
-            while (true) {
-                Bitmap bm = new Bitmap(Screen.PrimaryScreen.Bounds.Width, Screen.PrimaryScreen.Bounds.Height);
-                
+			//var screenHeight = Screen.PrimaryScreen.Bounds.Height;
+			//var screenWidth = Screen.PrimaryScreen.Bounds.Width;
+			var captureHeight = 1080;
+			var captureWidth = 1920;
+			Bitmap bm = new Bitmap(captureWidth, captureHeight);
+			Graphics g = Graphics.FromImage(bm);
+			while (true)
+			{
+				g.Clear(new Color());
+				g.CopyFromScreen(0, 0, 0, 0, bm.Size);
 
-                Graphics g = Graphics.FromImage(bm);
-                g.CopyFromScreen(0, 0, 0, 0, bm.Size);
-
-
-
-                pictureBox.Image = bm;
-                //Thread.Sleep(34);
-            }
-        }
+				Rectangle rect = new Rectangle(0, 0, bm.Width/10, bm.Height/10);
+				pictureBox.Image = bm;
+				Thread.Sleep(64);
+			}
+		}
 
 
     }
